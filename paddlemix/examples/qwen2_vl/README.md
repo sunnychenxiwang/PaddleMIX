@@ -57,6 +57,9 @@ opensource_json.tar需下载解压在playground/目录下，opensource_json 里�
 # 2B
 sh paddlemix/examples/qwen2_vl/shell/basline_2b_bs32_1e8.sh
 
+# 2B lora
+sh paddlemix/examples/qwen2_vl/shell/basline_2b_lora_bs32_1e8.sh
+
 # 7B
 sh paddlemix/examples/qwen2_vl/shell/basline_7b_bs32_1e8.sh
 ```
