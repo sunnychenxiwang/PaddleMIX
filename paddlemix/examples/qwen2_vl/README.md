@@ -64,7 +64,7 @@ sh paddlemix/examples/qwen2_vl/shell/basline_2b_lora_bs32_1e8.sh
 sh paddlemix/examples/qwen2_vl/shell/basline_7b_bs32_1e8.sh
 ```
 注意：微调2b模型的运行示例如下：
-![运行示例](PaddleMIX/paddlemix/demo_images/qwen2-vl-2b-lora-ft.png)
+![运行示例](../../demo_images/qwen2-vl-2b-lora-ft.png)
 
 ### 4.3 微调后使用
 
